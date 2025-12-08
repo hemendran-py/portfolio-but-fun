@@ -121,8 +121,7 @@ export default function Home() {
         </h2>
         <p className="px-6 about-text">
 
-          I’m a guy who’s into design, tech, and and music. Not super active on socials, but I’m lowkey chill and just enjoy
-          doing my thing.
+          I’m into design, tech, and music, and I just enjoy doing my thing. Active on socials :) don’t be shy, reach out!
 
         </p>
 
