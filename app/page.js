@@ -51,13 +51,13 @@ export default function Home() {
         <div className="intro px-4   ">
           <div className="font">
 
-            Intro
+            IntroS
           </div>
         </div>
         <div className="text-white px-6 he-him  pb-1">
           he/him, 20 <br />
 
-          Cybersecurity student💻 who creates stuff with code for fun. Learning, building, and staying consistent—in both tech and fitness.
+          Cybersecurity wabisabi student💻 who creates stuff with code for fun. Learning, building, and staying consistent—in both tech and fitness.
 
         </div>
 
