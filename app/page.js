@@ -57,7 +57,9 @@ export default function Home() {
         <div className="text-white px-6 he-him  pb-1">
           he/him, 20 <br />
 
-          Cybersecurity student💻 who creates stuff with code for fun. Learning, building, and staying consistent—in both tech and fitness.
+          {/* Cybersecurity student💻 who creates stuff with code for fun. Learning, building, and staying consistent—in both tech and fitness. */}
+
+          Cybersecurity student 💻. I code things for fun and try to stay consistent in both tech and the gym.
 
         </div>
 

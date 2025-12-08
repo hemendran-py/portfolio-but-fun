@@ -15,13 +15,14 @@
 }
 
 /* Glassmorphism effect */
-.glass, .gridItem {
+.glass,
+.gridItem {
   background: rgba(255, 255, 255, 0.15) !important;
   border-radius: 20px !important;
   box-shadow: 0 4px 30px rgba(0, 0, 0, 0.1) !important;
   backdrop-filter: blur(8px) !important;
   -webkit-backdrop-filter: blur(8px) !important;
-  border: 1px solid rgba(255, 255, 255, 0.3) !important;
+  border: 0px solid rgba(255, 255, 255, 0.3) !important;
 }
 
 /* Base styles */
@@ -41,7 +42,7 @@
 .gridContainer {
   display: flex;
   flex-direction: column; /* Stack the images vertically */
-  gap: 50px; /* Space between images */
+  gap: 45px; /* Space between images */
   margin-top: 20px;
   width: 50%;
   border-radius: 30px;
@@ -51,8 +52,7 @@
   width: 100%; /* Make image fill the container's width */
   height: auto;
   object-fit: fill;
-  border-radius: 30px;
-
+  border-radius: 20px;
 }
 
 /* Responsive adjustments */

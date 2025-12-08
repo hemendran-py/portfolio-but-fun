@@ -11,11 +11,11 @@ const Navbar = () => {
       <a href="/" className={pathname === "/" ? styles.selected : ""}>
         /
       </a>
-      <a href="/work" className={pathname === "/work" ? styles.selected : ""}>
-        Work
-      </a>
       <a href="/gallery" className={pathname === "/gallery" ? styles.selected : ""}>
         Gallery
+      </a>
+      <a href="/work" className={pathname === "/work" ? styles.selected : ""}>
+        Work
       </a>
       <a href="/notes" className={pathname === "/notes" ? styles.selected : ""}>
         Notes
