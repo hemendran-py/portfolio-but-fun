@@ -6,21 +6,30 @@ import Image from 'next/image';
 export default function Gallery() {
   const images1 = [
     '/images/img1.jpg',
-    '/images/img2.jpg',
+    '/images/frnds2.png',
     '/images/img3.jpg',
-    '/images/img4.jpg',
-    '/images/img5.jpg',
-    '/images/q2.jpg',
-    '/images/img6.jpg',
+
+    '/images/initha.png',
+    '/images/vc.png',
+    '/images/img10.jpg',
+
+
+
+
+
   ];
 
   const images2 = [
     '/images/img7.jpg',
-    '/images/img8.jpg',
-    '/images/img9.jpg',
-    '/images/img10.jpg',
-    '/images/img11.jpg',
+    '/images/venus.png',
     '/images/img12.jpg',
+
+    '/images/bike.jpg',
+    '/images/img9.jpg',
+    '/images/mom.jpg',
+    '/images/loud_music.jpg',
+
+
   ];
 
   return (
@@ -44,7 +53,7 @@ export default function Gallery() {
           <div
             key={index}
             className={styles.gridItem}
-            style={{ animationDelay: `${(index+1 ) * 0.2}s` }} // Continue delay sequence
+            style={{ animationDelay: `${(index + 1) * 0.2}s` }} // Continue delay sequence
           >
             <Image src={img} width={300} height={300} alt={`Gallery Image ${index + 1}`} priority />
           </div>
