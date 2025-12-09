@@ -277,7 +277,8 @@ body {
     margin-top: 2% !important;
   }
   .about-text {
-    font-size: 24px !important;
+    font-size: 25px !important;
+    margin-inline: 14px;
     color: white;
     padding-left: 20px !important;
   }

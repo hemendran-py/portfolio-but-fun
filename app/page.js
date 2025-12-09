@@ -19,11 +19,11 @@ export default function Home() {
         </h1>
         <p className="pronounce px-5 ">
 
-          /hɪˈmɛn.drən/
+          /hæ' mɛn.drən/
 
 
 
-
+          {/* ɪˈ */}
         </p>
 
       </div>
@@ -55,7 +55,7 @@ export default function Home() {
           </div>
         </div>
         <div className="text-white px-6 he-him  pb-1">
-          he/him, 21 <br />
+          He/Him, 21 <br />
 
           {/* Cybersecurity student💻 who creates stuff with code for fun. Learning, building, and staying consistent—in both tech and fitness. */}
 

@@ -7,10 +7,12 @@ export default function Gallery() {
   const images1 = [
     '/images/img1.jpg',
     '/images/frnds2.png',
-    '/images/img3.jpg',
+    '/images/macaw.jpg',
 
-    '/images/initha.png',
+    '/images/cute.jpg',
     '/images/vc.png',
+    '/images/inithacrop.png',
+
     '/images/kanye.jpg',
 
 
@@ -23,12 +25,13 @@ export default function Gallery() {
   const images2 = [
     '/images/img7.jpg',
     '/images/venus.png',
-    // '/images/img12.jpg',
 
     '/images/bike.jpg',
     '/images/img9.jpg',
     '/images/img10.jpg',
+    '/images/goa.jpg',
     '/images/mom.jpg',
+
 
 
   ];
