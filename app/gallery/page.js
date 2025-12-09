@@ -10,7 +10,7 @@ export default function Gallery() {
     '/images/macaw.jpg',
 
     '/images/cute.jpg',
-    '/images/vc.png',
+    '/images/vc2.jpg',
     '/images/inithacrop.png',
 
     '/images/kanye.jpg',
