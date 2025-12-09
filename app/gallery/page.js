@@ -11,7 +11,8 @@ export default function Gallery() {
 
     '/images/initha.png',
     '/images/vc.png',
-    '/images/img10.jpg',
+    '/images/kanye.jpg',
+
 
 
 
@@ -22,12 +23,12 @@ export default function Gallery() {
   const images2 = [
     '/images/img7.jpg',
     '/images/venus.png',
-    '/images/img12.jpg',
+    // '/images/img12.jpg',
 
     '/images/bike.jpg',
     '/images/img9.jpg',
+    '/images/img10.jpg',
     '/images/mom.jpg',
-    '/images/loud_music.jpg',
 
 
   ];
