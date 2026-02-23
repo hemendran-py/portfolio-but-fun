@@ -1,10 +1,10 @@
-"use client"; // Ensure this runs on the client side
+"use client"; 
 
-import { usePathname } from "next/navigation"; // Import the Next.js hook
+import { usePathname } from "next/navigation"; 
 import styles from "./navbar.module.css";
 
 const Navbar = () => {
-  const pathname = usePathname(); // Get the current URL path
+  const pathname = usePathname(); 
 
   return (
     <div className={styles.navbar}>

@@ -8,12 +8,12 @@ export default function Gallery() {
     '/images/img1.jpg',
     '/images/frnds2.png',
     '/images/macaw.jpg',
-
-    '/images/cute.jpg',
-    '/images/vc2.jpg',
-    '/images/inithacrop.png',
+    '/images/img9.jpg',
 
     '/images/kanye.jpg',
+    '/images/cute.jpg',
+    '/images/inithacrop.png',
+
 
 
 
@@ -27,7 +27,8 @@ export default function Gallery() {
     '/images/venus.png',
 
     '/images/bike.jpg',
-    '/images/img9.jpg',
+    '/images/mumbai.jpeg',
+
     '/images/img10.jpg',
     '/images/goa.jpg',
     '/images/mom.jpg',
