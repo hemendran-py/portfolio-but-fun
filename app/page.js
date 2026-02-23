@@ -34,7 +34,7 @@ export default function Home() {
       </a>
 
 
-      <a href='https://www.instagram.com/not._hxm_/' className="item items-3  effects ">
+      <a href='https://www.instagram.com/hemendrann/' className="item items-3  effects ">
         <div className="instagram-gradient ">
           <img src="/instagram.svg" className="instagram-logo" />
 
@@ -55,7 +55,7 @@ export default function Home() {
           </div>
         </div>
         <div className="text-white px-6 he-him  pb-1">
-          He/Him, 21 <br />
+          He/Him, 20 <br />
 
           {/* Cybersecurity student💻 who creates stuff with code for fun. Learning, building, and staying consistent—in both tech and fitness. */}
 
